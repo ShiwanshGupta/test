@@ -24,7 +24,8 @@
 	background: var(--theme);
 	text-align: center;
 }
-.footer .email{
+.footer a{
+	text-decoration: none;
 	color: #09e388;
 	font-family: monospace;
 }
