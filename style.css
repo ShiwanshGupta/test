@@ -22,6 +22,7 @@
 	height: 20px;
 	padding: 5px;
 	background: var(--theme);
+	text-align: center;
 }
 .footer .email{
 	color: #09e388;
